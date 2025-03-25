@@ -60,8 +60,8 @@ QuickService Retail Corp operates in the consumer retail sector, with 100+ branc
 ## Executive Summary  
 **Top Insights**:  
 1. **No Statistical Differences**: ANOVA (p=0.987) and pairwise t-tests confirm parity across branches.  
-2. **Consistent Performance**: All branches scored ~7.5/10, reflecting uniform service quality.  
-3. **Stable Variability**: Tight score distribution (25th–75th percentile: 6.75–8.25).  
+2. **Consistent Performance**: All branches scored mean ~7.5/10, reflecting uniform service quality.  
+
 
 ---
 
