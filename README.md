@@ -63,9 +63,6 @@ QuickService Retail Corp operates in the consumer retail sector, with 100+ branc
 2. **Consistent Performance**: All branches scored ~7.5/10, reflecting uniform service quality.  
 3. **Stable Variability**: Tight score distribution (25th–75th percentile: 6.75–8.25).  
 
-**Visualization**:  
-![Mean Satisfaction Scores](https://via.placeholder.com/600x300.png?text=Branch+A:7.5+Branch+B:7.55+Branch+C:7.5)  
-
 ---
 
 ## Insights Deep Dive  
